@@ -304,12 +304,12 @@
 
     <!-- Alter build parameters for avoiding hardware attestation enforcement -->
     <string-array name="config_spoofBuildGms" translatable="false">
-        <item>PropValue;DEVICE;bullhead</item>
-        <item>PropValue;ID;OPR6.170623.013</item>
-        <item>PropValue;FINGERPRINT;google/bullhead/bullhead:8.0.0/OPR6.170623.013/4283548:user/release-keys</item>
-        <item>PropValue;MODEL;Nexus 5X</item>
-        <item>PropValue;PRODUCT;bullhead</item>
+        <item>PropValue;DEVICE;Mickey6TTMO</item>
+        <item>PropValue;ID;NRD90M</item>
+        <item>PropValue;FINGERPRINT;TCL/5049W/Mickey6TTMO:7.0/NRD90M/v6H7J-0:user/release-keys</item>
+        <item>PropValue;MODEL;5049W</item>
+        <item>PropValue;PRODUCT;5049W</item>
         <item>VersionField;FIRST_SDK_INT;24</item>
-        <item>VersionFieldString;SECURITY_PATCH;2017-08-05</item>
+        <item>VersionFieldString;SECURITY_PATCH;2017-07-01</item>
     </string-array>
 </resources>
